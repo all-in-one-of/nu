@@ -1,0 +1,2 @@
+# nu
+home on nu
